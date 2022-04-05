@@ -1,0 +1,2 @@
+# 1Charplekcija
+mans pirmais 
