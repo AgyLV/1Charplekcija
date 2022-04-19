@@ -1,0 +1,15 @@
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\2Majasdarbs\2Majasdarbs\bin\Debug\net6.0\2Majasdarbs.exe
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\2Majasdarbs\2Majasdarbs\bin\Debug\net6.0\2Majasdarbs.deps.json
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\2Majasdarbs\2Majasdarbs\bin\Debug\net6.0\2Majasdarbs.runtimeconfig.json
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\2Majasdarbs\2Majasdarbs\bin\Debug\net6.0\2Majasdarbs.dll
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\2Majasdarbs\2Majasdarbs\bin\Debug\net6.0\2Majasdarbs.pdb
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\2Majasdarbs\2Majasdarbs\obj\Debug\net6.0\2Majasdarbs.csproj.AssemblyReference.cache
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\2Majasdarbs\2Majasdarbs\obj\Debug\net6.0\2Majasdarbs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\2Majasdarbs\2Majasdarbs\obj\Debug\net6.0\2Majasdarbs.AssemblyInfoInputs.cache
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\2Majasdarbs\2Majasdarbs\obj\Debug\net6.0\2Majasdarbs.AssemblyInfo.cs
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\2Majasdarbs\2Majasdarbs\obj\Debug\net6.0\2Majasdarbs.csproj.CoreCompileInputs.cache
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\2Majasdarbs\2Majasdarbs\obj\Debug\net6.0\2Majasdarbs.dll
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\2Majasdarbs\2Majasdarbs\obj\Debug\net6.0\refint\2Majasdarbs.dll
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\2Majasdarbs\2Majasdarbs\obj\Debug\net6.0\2Majasdarbs.pdb
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\2Majasdarbs\2Majasdarbs\obj\Debug\net6.0\2Majasdarbs.genruntimeconfig.cache
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\2Majasdarbs\2Majasdarbs\obj\Debug\net6.0\ref\2Majasdarbs.dll
