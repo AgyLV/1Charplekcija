@@ -1,6 +1,8 @@
-﻿using _3MajasDarbs;
+﻿//1. uzdevums
 
-string Marka = "Ihone";
+using _3MajasDarbs;
+
+string Marka = "IPhone";
 Telefons telefons = new Telefons(Marka);
 
 telefons.Modelis = 23;
@@ -11,5 +13,12 @@ telefons.SMS = true;
 bool VaiZvana = telefons.Zvana;
 bool VaiSMS = telefons.SMS;
 
-Console.WriteLine(VaiZvana);
-Console.WriteLine(VaiSMS);
+telefons.Informacija();
+Console.WriteLine($"Telefona zvanu fukcija: {VaiZvana}");
+Console.WriteLine($"Telefona SMS fukcija: {VaiSMS}");
+
+
+Console.WriteLine();
+Console.WriteLine("=================================");
+Console.WriteLine();
+//2. uzdevums
