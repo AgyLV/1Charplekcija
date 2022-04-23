@@ -1,5 +1,4 @@
-﻿//1. uzdevums
-namespace _3MajasDarbs
+﻿namespace _3MajasDarbs
 {
     public class Telefons
     {
