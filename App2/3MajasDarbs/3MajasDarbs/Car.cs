@@ -8,7 +8,9 @@
         }
         public string Marka { get; set; }
 
-        public string NumZim { get; set; }
+        public string NumZimSer { get; set; }
+
+        public int NumZim { get; set; }
 
         public int Speed { get; set; }
 
@@ -17,7 +19,7 @@
 
         public void BeepBeep()
         {
-            Console.WriteLine($"Auto {Marka} ar numurzīmi {NumZim}, kas brauc ar ātrumu {Speed} saka: beep beep");
+            Console.WriteLine($"Auto {Marka} ar numurzīmi {NumZimSer}{NumZim}, kas brauc ar ātrumu {Speed} km/h saka: beep beep!");
         }
     }
 

@@ -26,7 +26,8 @@ Console.WriteLine();
 string Marka = "BMW";
 Car car = new Car(Marka);
 
-car.NumZim = BK7790;
+car.NumZimSer = "BK";
+car.NumZim = 7790;
 car.Speed = 50;
 
 
