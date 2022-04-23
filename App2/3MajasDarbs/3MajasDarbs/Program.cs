@@ -2,8 +2,8 @@
 
 using _3MajasDarbs;
 
-string Marka = "IPhone";
-Telefons telefons = new Telefons(Marka);
+string Brand = "IPhone";
+Telefons telefons = new Telefons(Brand);
 
 telefons.Modelis = 23;
 telefons.Scale1 = 45.6;
@@ -22,3 +22,12 @@ Console.WriteLine();
 Console.WriteLine("=================================");
 Console.WriteLine();
 //2. uzdevums
+
+string Marka = "BMW";
+Car car = new Car(Marka);
+
+car.NumZim = BK7790;
+car.Speed = 50;
+
+
+car.BeepBeep();
