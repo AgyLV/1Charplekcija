@@ -30,8 +30,9 @@ car.NumZimSer = "BK";
 car.NumZim = 7790;
 car.Speed = 50;
 
-
+car.Uzsak();
 car.BeepBeep();
+car.Beidz();
 
 Console.WriteLine();
 Console.WriteLine("=================================");
@@ -86,8 +87,8 @@ person.Vards = Console.ReadLine();
 Console.Write("Kāds ir tavs uzvārds?: "); 
 person.Uzvards = Console.ReadLine();
 
-Console.Write("Kad Tu esi dzimis (yyyy/mm/dd)?: ");  
-person.Dzimis = Convert.ToDateTime(Console.ReadLine());
+Console.Write("Kad Tu esi dzimis (mm/dd/yyyy)?: ");  
+person.Dzimis = DateTime.Parse(Console.ReadLine());
 
 Console.Write("Kāds ir tavs hobijs?: ");  
 person.Hobijs = Console.ReadLine();

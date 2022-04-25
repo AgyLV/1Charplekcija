@@ -2,13 +2,16 @@
 {
     internal class Prece
     {
+       
         public Prece(string name)
         {
             Nosaukums = name;
+            
         }
+
         public string Nosaukums { get; set; }
 
-        public double Garums { get; set; }
+        public double Garums { get; set;  }
 
         public double Platums { get; set; }
 
@@ -16,7 +19,7 @@
 
         public double Svars { get; set; }
 
-        public double Cena{ get; set; }
+        public double Cena { get; set; } 
 
 
 
