@@ -18,6 +18,8 @@
 
 
         public void BeepBeep()
+
+
         {
             Console.WriteLine($"Auto {Marka} ar numurzīmi {NumZimSer}{NumZim}, kas brauc ar ātrumu {Speed} km/h saka: beep beep!");
         }

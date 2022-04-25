@@ -72,3 +72,25 @@ prece3.Cena = 4.55;
 
 Console.WriteLine();
 prece3.Precesinfo();
+
+Console.WriteLine();
+Console.WriteLine("=================================");
+Console.WriteLine();
+//4. uzdevums
+
+Persona person = new Persona(args);
+
+Console.Write("Kāds ir Tavs vārds?: ");  
+person.Vards = Console.ReadLine();
+
+Console.Write("Kāds ir tavs uzvārds?: "); 
+person.Uzvards = Console.ReadLine();
+
+Console.Write("Kad Tu esi dzimis (yyyy/mm/dd)?: ");  
+person.Dzimis = Convert.ToDateTime(Console.ReadLine());
+
+Console.Write("Kāds ir tavs hobijs?: ");  
+person.Hobijs = Console.ReadLine();
+
+Console.Write("Kāds ir tavs dzinums (sieviete/vīrietis): ");  
+person.Dzimums = Console.ReadLine();
