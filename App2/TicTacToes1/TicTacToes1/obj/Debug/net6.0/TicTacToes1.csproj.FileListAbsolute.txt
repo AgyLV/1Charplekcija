@@ -1,0 +1,15 @@
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\TicTacToes1\TicTacToes1\bin\Debug\net6.0\TicTacToes1.exe
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\TicTacToes1\TicTacToes1\bin\Debug\net6.0\TicTacToes1.deps.json
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\TicTacToes1\TicTacToes1\bin\Debug\net6.0\TicTacToes1.runtimeconfig.json
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\TicTacToes1\TicTacToes1\bin\Debug\net6.0\TicTacToes1.dll
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\TicTacToes1\TicTacToes1\bin\Debug\net6.0\TicTacToes1.pdb
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\TicTacToes1\TicTacToes1\obj\Debug\net6.0\TicTacToes1.csproj.AssemblyReference.cache
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\TicTacToes1\TicTacToes1\obj\Debug\net6.0\TicTacToes1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\TicTacToes1\TicTacToes1\obj\Debug\net6.0\TicTacToes1.AssemblyInfoInputs.cache
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\TicTacToes1\TicTacToes1\obj\Debug\net6.0\TicTacToes1.AssemblyInfo.cs
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\TicTacToes1\TicTacToes1\obj\Debug\net6.0\TicTacToes1.csproj.CoreCompileInputs.cache
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\TicTacToes1\TicTacToes1\obj\Debug\net6.0\TicTacToes1.dll
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\TicTacToes1\TicTacToes1\obj\Debug\net6.0\refint\TicTacToes1.dll
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\TicTacToes1\TicTacToes1\obj\Debug\net6.0\TicTacToes1.pdb
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\TicTacToes1\TicTacToes1\obj\Debug\net6.0\TicTacToes1.genruntimeconfig.cache
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\TicTacToes1\TicTacToes1\obj\Debug\net6.0\ref\TicTacToes1.dll

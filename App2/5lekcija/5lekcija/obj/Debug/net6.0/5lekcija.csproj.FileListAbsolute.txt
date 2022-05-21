@@ -1,0 +1,15 @@
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\5lekcija\5lekcija\bin\Debug\net6.0\5lekcija.exe
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\5lekcija\5lekcija\bin\Debug\net6.0\5lekcija.deps.json
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\5lekcija\5lekcija\bin\Debug\net6.0\5lekcija.runtimeconfig.json
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\5lekcija\5lekcija\bin\Debug\net6.0\5lekcija.dll
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\5lekcija\5lekcija\bin\Debug\net6.0\5lekcija.pdb
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\5lekcija\5lekcija\obj\Debug\net6.0\5lekcija.csproj.AssemblyReference.cache
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\5lekcija\5lekcija\obj\Debug\net6.0\5lekcija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\5lekcija\5lekcija\obj\Debug\net6.0\5lekcija.AssemblyInfoInputs.cache
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\5lekcija\5lekcija\obj\Debug\net6.0\5lekcija.AssemblyInfo.cs
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\5lekcija\5lekcija\obj\Debug\net6.0\5lekcija.csproj.CoreCompileInputs.cache
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\5lekcija\5lekcija\obj\Debug\net6.0\5lekcija.dll
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\5lekcija\5lekcija\obj\Debug\net6.0\refint\5lekcija.dll
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\5lekcija\5lekcija\obj\Debug\net6.0\5lekcija.pdb
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\5lekcija\5lekcija\obj\Debug\net6.0\5lekcija.genruntimeconfig.cache
+C:\Users\agnese.veze\Desktop\Lekcijas\App2\5lekcija\5lekcija\obj\Debug\net6.0\ref\5lekcija.dll
